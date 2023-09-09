@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\refint\UnitTests.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\GIT\Projetos_pessoais\UnitTests\UnitTests\obj\Debug\net6.0\ref\UnitTests.dll
